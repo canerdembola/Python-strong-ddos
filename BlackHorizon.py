@@ -136,7 +136,7 @@ class BlackHorizon(object):
 
     def exit(self):
         self.stats()
-        print "Stopping BlackHorizon"
+        print Stopping BlackHorizon
 
     def __del__(self):
         self.exit()
